@@ -21,4 +21,4 @@ SQLAlchemy==1.4.28
 tenacity==8.0.1
 threadpoolctl==3.0.0
 tqdm==4.62.3
-Werkzeug==2.2.3
+Werkzeug==3.0.1
